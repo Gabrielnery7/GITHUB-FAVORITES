@@ -6,8 +6,7 @@ Projeto focado na aplicação de API e não no design do site, para selecionar a
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>     |
-  <a href="#-projeto">Projeto</a>     |
-  <a href="#-layout">Layout</a>     | 
+  <a href="#-projeto">Projeto</a>     
 </p>
 
 <br>
@@ -22,5 +21,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - JavaScript
 
 ##  💻 Projeto
-O projeto _GitHub Favorites_ foi realizado como  parte de um desafio de uma aula da RocketSeat, focado no funcionamento do Site, podemos fazer uma lista com nosso progamadores favoritos com apenas um clique.</a>.
+O projeto _GitHub Favorites_ foi realizado como  parte de um desafio de uma aula da RocketSeat, focado no funcionamento do Site, podemos fazer uma lista com nosso progamadores favoritos com apenas um clique, não esqueça de pesquisar pelo nickname.
 
