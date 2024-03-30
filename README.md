@@ -11,7 +11,7 @@ Projeto focado na aplicação de API e não no design do site, para selecionar a
 
 <br>
 
-![image](https://github.com/Gabrielnery7/GITHUB-FAVORITES/assets/128620029/5606678d-f836-4a4e-97be-4c460940833d)
+![image](https://github.com/Gabrielnery7/GITHUB-FAVORITES/assets/128620029/03b7218e-2398-4b5b-97c1-3e9a66671463)
 
 
 ## 🚀 Tecnologias
